@@ -1,3 +1,3 @@
 # RPS-Multiplayer
 
-This is a my version of Rock paper scissors
+This is a my version of Rock paper scissors using Javascript
